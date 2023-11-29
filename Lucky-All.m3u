@@ -217,7 +217,102 @@ http://111.11.123.33:6610/000000001000/5822616274253344775/index.m3u8?channel-id
 http://111.11.123.33:6610/000000001000/7681593242002292003/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpinmengchong.png" group-title="NewTV",NewTV魅力潇湘
 http://111.11.123.33:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-
+#EXTINF:-1 group-title="地方台",广州新闻
+https://tv.cry33.com/gztv.php?id=gzxw
+#EXTINF:-1 group-title="地方台",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="地方台",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="地方台",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="地方台",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 group-title="地方台",浙江教科频道
+http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 group-title="地方台",浙江少儿频道
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 group-title="地方台",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="地方台",浙江国际频道
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="地方台",浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 group-title="地方台",浙江经视频道
+http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 group-title="地方台",留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 group-title="地方台",新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="地方台",新昌生活频道
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="地方台",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台",河北都市
+http://27.185.1.27:8092/hls/19/index.m3u8
+#EXTINF:-1 group-title="地方台",河北经济
+http://27.185.1.27:8092/hls/17/index.m3u8
+#EXTINF:-1 group-title="地方台",河北影视
+http://27.185.1.27:8092/hls/18/index.m3u8
+#EXTINF:-1 group-title="地方台",河北公共
+http://27.185.1.27:8092/hls/20/index.m3u8
+#EXTINF:-1 group-title="地方台",农民频道
+http://27.185.1.27:8092/hls/16/index.m3u8
+#EXTINF:-1 group-title="地方台",石家庄新闻
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 group-title="地方台",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 group-title="地方台",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+#EXTINF:-1 group-title="地方台",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+#EXTINF:-1 group-title="地方台",河南都市
+http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
+#EXTINF:-1 group-title="地方台",河南民生
+http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?
+#EXTINF:-1 group-title="地方台",河南国际
+http://xingyang.net.cn:4000/udp/225.1.4.102:1131
+#EXTINF:-1 group-title="地方台",湘潭综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="地方台",淮南新闻综合
+http://stream.0554news.com/hnds1/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",淮南公共台
+http://stream.0554news.com/hnds2/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",洪雅新闻综合
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8、
+#EXTINF:-1 group-title="地方台",文山综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="地方台",文山公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="地方台",西双版纳一
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="地方台",西双版纳二
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="地方台",南宁综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="地方台",南宁都市
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 group-title="地方台",南宁影视
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 group-title="地方台",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 group-title="地方台",宁夏公共
+http://open.live-web.timetv.cn/live03/nxgg.m3u8
+#EXTINF:-1 group-title="地方台",宁夏经济
+http://open.live-web.timetv.cn/live03/nxjj.m3u8
+#EXTINF:-1 group-title="地方台",宁夏文旅
+http://open.live-web.timetv.cn/live03/nxys.m3u8
+#EXTINF:-1 group-title="地方台",宁夏少儿
+http://open.live-web.timetv.cn/live03/nxse.m3u8
+#EXTINF:-1 group-title="地方台",乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",乌兰察布经济生活
+http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN记录
